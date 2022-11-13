@@ -1,6 +1,6 @@
 {
-  "short_name": "Mega Man vs Samus",
-  "name": "Mega Man vs Samus",
+  "short_name": "Battle",
+  "name": "Battle",
   "icons": [],
   "start_url": ".",
   "display": "standalone",
